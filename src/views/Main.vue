@@ -262,11 +262,7 @@ export default {
 	-webkit-box-shadow: inset 0 0 5px rgb(105, 104, 103);
 	background: rgb(105, 104, 103);
 }
-.el-main::-webkit-scrollbar-track {
-	-webkit-box-shadow: inset 0 0 5px #30363b;
-	border-radius: 0;
-	background: #30363b;
-}
+
 .left{
     float: left;
 }
